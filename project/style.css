@@ -1,0 +1,36 @@
+.works-list li{
+    list-style: none;
+}
+
+/* .header{
+    text-align: center;
+} */
+
+.works-list{
+    width:1296px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.works-list li{
+    padding:24px;
+}
+
+.works-tags{
+    display: flex;
+    list-style: none;
+}
+
+.header .nav{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+
+.nav li{
+    padding:0 10px;
+}
